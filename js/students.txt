@@ -1,2 +1,0 @@
-var attendanceApp = attendanceApp || {};
-attendanceApp.students = ["Slippy", "Peppy", "Fox", "Falco", "Bill", "Kat", "General"];
